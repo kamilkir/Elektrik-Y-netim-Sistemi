@@ -1,2 +1,2 @@
-# Elektrik-Y-netim-Sistemi
+# Elektrik-Yonetim-Sistemi
 JAVA PROJE
